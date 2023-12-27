@@ -16,10 +16,10 @@
 3. 항공권정보 스크랩(항공권 장바구니)
 
 MemberDTO
-id,memberEmail,memberPassword,memberName(이름),memberMobile(전화번호)
+id,memberEmail,memberPassword,memberName(이름),memberMobile(전화번호),Account(잔고)
 
 AirlineDTO 
 id,airlineSchedule(비행일정),airlineToAirfort(도착지),airlineFromAirfort(출발지)
 
 MileageDTO
-id,mileageAccount(잔고),mileageAmount(입금),mileageWithdraw(출금)
+id,mileageAmount(입금),mileageWithdraw(출금)
