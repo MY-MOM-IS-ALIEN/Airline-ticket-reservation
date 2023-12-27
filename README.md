@@ -14,3 +14,12 @@
 1. 최저가 비교
 2. 마일리지 충전하여 바로 결제
 3. 항공권정보 스크랩(항공권 장바구니)
+
+MemberDTO
+id,memberEmail,memberPassword,memberName(이름),memberMobile(전화번호),memberSex(성별)
+
+AirlineDTO 
+id,airlineSchedule(비행일정),airlineToAirfort(도착지),airlineFromAirfort(출발지)
+
+MileageDTO
+id,mileageAccount(잔고),mileageAmount(입금),mileageWithdraw(출금)
