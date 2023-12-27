@@ -16,7 +16,7 @@
 3. 항공권정보 스크랩(항공권 장바구니)
 
 MemberDTO
-id,memberEmail,memberPassword,memberName(이름),memberMobile(전화번호),memberSex(성별)
+id,memberEmail,memberPassword,memberName(이름),memberMobile(전화번호)
 
 AirlineDTO 
 id,airlineSchedule(비행일정),airlineToAirfort(도착지),airlineFromAirfort(출발지)
